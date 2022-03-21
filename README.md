@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganajayant&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganajayant&langs_count=8&layout=compact&theme=blue-green&hide_border=true)
 <!--
 **ganajayant/ganajayant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
