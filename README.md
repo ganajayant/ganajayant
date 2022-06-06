@@ -10,6 +10,7 @@ I am currently pursuing my B Tech degree in Compute Science Engineering from Ind
 <p align="left">
 <img src="https://user-images.githubusercontent.com/97283224/172058212-113f27c4-e69b-4c64-8551-1b91a18fcacd.gif"/>
 </p>
+
 ### Skills
 
 <p align="left">
