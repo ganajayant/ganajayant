@@ -3,7 +3,6 @@ Hi 👋 My name is Gana Jayant
 
 I am currently pursuing my B Tech degree in Compute Science Engineering from Indian Institute of Information Technology,Sricity
 
-* 🌍  I'm based in Visakhapantnam
 * ✉️  You can contact me at [ganajayant28@gmail.com](mailto:ganajayant28@gmail.com)
 * 🧠  I'm learning React.js
 
