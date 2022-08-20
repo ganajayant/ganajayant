@@ -8,7 +8,7 @@ I am currently pursuing my B Tech degree in Compute Science Engineering from Ind
 * 🧠  I'm learning React.js and Machine Learning
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/97283224/172058212-113f27c4-e69b-4c64-8551-1b91a18fcacd.gif"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
 ### Skills
