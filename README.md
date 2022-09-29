@@ -7,10 +7,6 @@ I am currently pursuing my B Tech degree in Compute Science Engineering from Ind
 * ✉️  You can contact me at [ganajayant28@gmail.com](mailto:ganajayant28@gmail.com)
 * 🧠  I'm learning React.js and Machine Learning
 
-<p align="left">
-<img src="https://c.tenor.com/3bTxZ4HdrysAAAPo/pixels-neon.mp4" alt="Coder GIF" width="500">
-</p>
-
 ### Skills
 
 <p align="left">
