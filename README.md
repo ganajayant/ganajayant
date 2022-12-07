@@ -5,7 +5,7 @@ I am currently pursuing my B Tech degree in Compute Science Engineering from Ind
 
 * 🌍  I'm based in Visakhapatnam
 * ✉️  You can contact me at [ganajayant28@gmail.com](mailto:ganajayant28@gmail.com)
-* 🧠  I'm learning React.js and Machine Learning
+* 🧠  I'm learning Deep Learning
 
 ### Skills
 
