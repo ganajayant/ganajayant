@@ -9,8 +9,8 @@ I am currently pursuing my B Tech degree in Compute Science Engineering from Ind
 * 🤝  I'm open to collaborating on Machine Leaning Projects
 
 <a href="https://www.github.com/ganajayant" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ganajayant?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ganajayant28" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ganajayant28?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/ganajayant?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitter.com/ganajayant28" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ganajayant28?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
 /></a>
 
 ### Skills
@@ -43,10 +43,10 @@ src="https://img.shields.io/twitter/follow/ganajayant28?logo=twitter&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ganajayant"><img src="https://github-readme-stats.vercel.app/api?username=ganajayant&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ganajayant's GitHub stats" /></a>
+<a href="http://www.github.com/ganajayant"><img src="https://github-readme-stats.vercel.app/api?username=ganajayant&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="ganajayant's GitHub stats" /></a>
 
-<a href="https://github.com/ganajayant" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganajayant&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ganajayant" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganajayant&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ganajayant/Celestial" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ganajayant&repo=Celestial&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ganajayant/Hotel-Management-System-CRUD" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ganajayant&repo=Hotel-Management-System-CRUD&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ganajayant/Celestial" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ganajayant&repo=Celestial&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ganajayant/Hotel-Management-System-CRUD" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ganajayant&repo=Hotel-Management-System-CRUD&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
