@@ -8,7 +8,8 @@ I am currently pursuing my B Tech degree in Compute Science Engineering from Ind
 * 🧠  I'm learning Deep Learning
 * 🤝  I'm open to collaborating on Machine Leaning Projects
 
-<a href="https://www.twitter.com/ganajayant28" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/ganajayant" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ganajayant?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a><a href="https://www.twitter.com/ganajayant28" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ganajayant28?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
 /></a>
 
