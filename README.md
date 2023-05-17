@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am currently pursuing my B Tech degree in Compute Science Engineering from Indian Institute of Information Technology,Sricity
 
-img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 * 🌍  I'm based in Visakhapatnam
 * 🖥️  See my portfolio at [portfolio](http://ganajayant.onrender.com/)
 * ✉️  You can contact me at [ganajayant28@gmail.com](mailto:ganajayant28@gmail.com)
