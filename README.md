@@ -20,33 +20,3 @@
   <br>
   <br>
 </samp>
-
-<details closed>
-<summary> <b>GitHub Stats</b> </summary>
-<table>
-<thead>
-  <tr>
-    <th>GitHub Stats</th>
-    <th>Languages</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ganajayant&show_icons=true&theme=tokyonight&count_private=true"
-        alt="Account stats"
-      />
-    </td>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganajayant&layout=compact&theme=tokyonight&langs_count=6"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-</tbody>
-</table>
-</details>
