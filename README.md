@@ -4,8 +4,6 @@
   <br>
   Hi, I'm ganajayant,
   <br>
-  🧑🏽‍🎓 I am currently pursuing my M.Tech in Computer Science Engineering at the Indian Institute of Technology, Kharagpur.
-  <br>
   ⌨️ I build things using code.
   <br>
   🇮🇳 Based in Visakhapatnam.
